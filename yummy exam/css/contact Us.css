@@ -1,0 +1,62 @@
+nav ul {
+  list-style: none;
+  padding-left: 20px;
+  width: 100%;
+  overflow: hidden;
+}
+nav ul li {
+  position: relative;
+  top: 300px;
+}
+.container {
+  margin-left: 80px;
+}
+nav {
+  z-index: 999999;
+  /* position: static; */
+  left: -20%;
+  width: 25%;
+}
+nav ul li {
+  margin-top: 20px;
+  color: white;
+  width: 100%;
+  padding: 10px;
+}
+nav ul li a {
+  color: white;
+  transition: 0.4s all ease;
+  cursor: pointer;
+}
+.white_bar .bars_xmark {
+  font-size: 30px;
+  cursor: pointer;
+  font-weight: light;
+}
+i {
+  cursor: pointer;
+}
+
+.validation {
+  background-color: #f5c2c7;
+  color: #842029;
+}
+
+.name {
+  display: none;
+}
+.mail {
+  display: none;
+}
+.password {
+  display: none;
+}
+.repassword {
+  display: none;
+}
+.age {
+  display: none;
+}
+.phone {
+  display: none;
+}

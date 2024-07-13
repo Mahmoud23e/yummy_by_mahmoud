@@ -1,0 +1,37 @@
+/* nav ul {
+  list-style: none;
+  padding-left: 20px;
+  width: 100%;
+  overflow: hidden;
+}
+nav ul li {
+  position: relative;
+  top: 300px;
+}
+.container {
+  margin-left: 80px;
+}
+nav { */
+/* z-index: 999999; */
+/* position: static; */
+/* left: -280px;
+}
+nav ul li {
+  margin-top: 20px;
+  color: white;
+  width: 100%;
+  padding: 10px;
+}
+nav ul li a {
+  color: white;
+  transition: 0.4s all ease;
+  cursor: pointer;
+}
+.white_bar .bars_xmark {
+  font-size: 60px;
+  cursor: pointer;
+  font-weight: light;
+}
+i {
+  cursor: pointer;
+} */
